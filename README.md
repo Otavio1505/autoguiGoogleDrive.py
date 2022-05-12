@@ -2,7 +2,7 @@
 Automação em Python capaz de enviar um arquivo de sua escolha e o armazenar no Google Drive.
 
 # Sobre o Projeto
-Projeto Pessoal, desenvolvido após aprendizado do uso da biblioteca PyAutoGui
+Projeto Pessoal, desenvolvido após aprendizado do uso da biblioteca PyAutoGui. Esta automação permite fazer Backups de arquivos no Google Drive, de forma automática.
 
 # Como Funciona?
 Antes da Iniciação do programa, é necessário que o arquivo que deseja armazenar no Google Drive, esteja posicionado no canto superior direito do monitor, em sua posição máxima, pois desta forma o mouse irá localizar o arquivo.
