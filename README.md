@@ -5,7 +5,7 @@ Automação em Python capaz de enviar um arquivo de sua escolha e o armazenar no
 Projeto Pessoal, desenvolvido após aprendizado do uso da biblioteca PyAutoGui
 
 # Como Funciona?
-Antes da Iniciação do programa, é necessário que o arquivo que deseja armazenar no Google Drive, esteja posicionado na canto superior direito do monitor, em sua posição máxima, pois desta forma o mouse irá localizar o arquivo.
+Antes da Iniciação do programa, é necessário que o arquivo que deseja armazenar no Google Drive, esteja posicionado no canto superior direito do monitor, em sua posição máxima, pois desta forma o mouse irá localizar o arquivo.
 
 ![a](https://user-images.githubusercontent.com/84475339/168164234-aee22980-c9e8-46d7-8c9b-c3dd7283f873.png)
 
