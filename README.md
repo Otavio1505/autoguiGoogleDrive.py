@@ -31,7 +31,7 @@ A automação será capaz de movimentar o mouse até o arquivo e o arrastar até
 
 Fim da automação.
 
-A duração estimada de todo o processo é de: 
+A duração estimada de todo o processo é de: 13 segundos
 
 # Autor
 Otávio Moraes Braga
