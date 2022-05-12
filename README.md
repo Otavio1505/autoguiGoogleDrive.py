@@ -19,7 +19,7 @@ Quando o Programa é iniciado, é aberto o Navegador
 
 Acesso a URL do Google Drive (É necessário a entrada automática na conta do usuário)
 
-Após o acesso ao site, a janela do navegador irá se posicionar a esquerda da Tela, através do comando: 'Windows' + 'Left Arrow', declarado dentro do código.
+Após o acesso ao site, a janela do navegador irá se posicionar à esquerda da Tela, através do comando: 'Windows' + 'Left Arrow', declarado dentro do código.
 
 A direita do Monitor, mostrará a Área de Trabalho, onde se encontrará o arquivo posicionado no canto superior direito da tela.
 
